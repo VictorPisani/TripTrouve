@@ -1,5 +1,5 @@
 # TripTrouve
-Grupo: Kare, Milena, Eder, Leonardo, Victor e Naara.
+Grupo: Karin, Milena, Eder, Leonardo, Victor e Naara.
 
 ## Empresa:
 - Empresa parceira de sites vendedores de pacotes de viágens, juntando ofertas e uma maneira de descobrir lugares novos de maneiras diferentes pagando barato.
