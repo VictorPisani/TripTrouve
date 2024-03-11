@@ -8,7 +8,7 @@ Grupo: Kare, Milena, Eder, Leonardo, Victor e Naara.
 - Nossos clientes seriam viajantes a trabalho ou a lazer.
 
 ## Contribuição social:
-- Auxiliar pessoas com pouca renda a poder viajar e aproveitar seus lazeres com opções que caibam no bolso.
+- Auxiliar pessoas com pouca renda a poder viajar e aproveitar seus lazeres com opções que caibam no bolso, auxiliando-as a conquistárem seus sonhos e colaborando para um mundo mais acessível com menos desigualdade social.
 
 ## Benefícios para os clientes:
 - Promoções de pacotes de viagens.
