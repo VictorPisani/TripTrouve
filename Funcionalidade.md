@@ -24,7 +24,7 @@
 ### Filtros:
   - Local.
   - Km² de distância do local escolhido
-  - Meio de transporte (ônibus, aviãp, metrô, carro, trêm, etc)
+  - Meio de transporte (ônibus, avião, metrô, carro, trêm, etc)
   - Valor mínimo e máximo.
   - Sites e empresas parceiras
 
