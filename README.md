@@ -36,7 +36,7 @@ Grupo: Karin, Milena, Eder, Leonardo, Victor e Naara.
 - Tornar-se a principal escolha para viajantes que buscam experiências autênticas e inesquecíveis em todo o mundo, oferecendo serviços excepcionais e acessíveis para cada perfil.
 
 ## Missão:
-- Permitir a possibilidade de todo Brasileiro poder ter a oportunidade de poder viajar pagando pouco, de maneira confortável e única.
+- Dar a possibilidade de todo brasileiro viajar de sua melhor maneira, pagando pouco e de maneira confortável.
 
 ## Frase:
 - Trip Trouve. Conforto e experiência que cabe no bolso.
